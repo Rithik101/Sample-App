@@ -1,0 +1,125 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imgUrl": "https://images.unsplash.com/photo-1612077330269-788066d5ba58?crop=entropy&cs=srgb&fm=jpg&ixid=MXwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=85",
+      "title": "Tie Up Boots",
+      "price": 409,
+      "desc": "Fall Favorite • Boots",
+      "Qty": 1
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://images.unsplash.com/photo-1612077330269-788066d5ba58?crop=entropy&cs=srgb&fm=jpg&ixid=MXwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=85",
+      "title": "Shirts",
+      "price": 454,
+      "desc": "Fall Favorite • Tie",
+      "Qty": 1
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://images.unsplash.com/photo-1612077330269-788066d5ba58?crop=entropy&cs=srgb&fm=jpg&ixid=MXwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=85",
+      "title": "Trousers ",
+      "price": 412,
+      "desc": "Fall Favorite • Up",
+      "Qty": 1
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://images.unsplash.com/photo-1612077330269-788066d5ba58?crop=entropy&cs=srgb&fm=jpg&ixid=MXwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=85",
+      "title": "Jeans ",
+      "price": 498,
+      "desc": "Fall Favorite • Down",
+      "Qty": 1
+    },
+    {
+      "id": 5,
+      "imgUrl": "https://images.unsplash.com/photo-1612077330269-788066d5ba58?crop=entropy&cs=srgb&fm=jpg&ixid=MXwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=85",
+      "title": "T-shirt ",
+      "price": 678,
+      "desc": "Fall Favorite • Town",
+      "Qty": 1
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john@example.com",
+      "password": "password123"
+    },
+    {
+      "email": "rithik@test.com",
+      "pass": "Test@123",
+      "id": 2
+    },
+    {
+      "name": "Rahul ",
+      "email": "rithik@test.com",
+      "password": "TEst@12345",
+      "id": 3
+    },
+    {
+      "email": "rithik@test.com",
+      "pass": "ewdewdwed@123",
+      "id": 4
+    },
+    {
+      "email": "rithik@test.com",
+      "pass": "aswd221221",
+      "id": 5
+    },
+    {
+      "email": "rithik@test.com",
+      "pass": "Nopassword@100",
+      "id": 6
+    },
+    {
+      "email": "rithik@test.com",
+      "pass": "AS@1234",
+      "id": 7
+    },
+    {
+      "email": "rithik@test.com",
+      "pass": "No@1233333",
+      "id": 8
+    },
+    {
+      "name": "Rithik ",
+      "email": "No@test.com",
+      "password": "No@1223221",
+      "id": 9
+    },
+    {
+      "email": "",
+      "pass": "",
+      "id": 10
+    },
+    {
+      "email": "",
+      "pass": "",
+      "id": 11
+    },
+    {
+      "email": "rithik@test.com",
+      "pass": "qwdqwedq@121234",
+      "id": 12
+    },
+    {
+      "email": "rithik@test.com",
+      "pass": "sdfh@1314",
+      "id": 13
+    },
+    {
+      "email": "rithik@test.com",
+      "pass": "Welwkd@12345",
+      "id": 14
+    },
+    {
+      "name": "Rithik ",
+      "email": "sdwad@bluebash.co",
+      "password": "sdadwd@1234",
+      "id": 15
+    }
+  ]
+}
