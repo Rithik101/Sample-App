@@ -84,7 +84,7 @@ const Footer = () => {
                                 <div className="copyright">
                                     &copy; Copyright <strong><span>Shop-E</span></strong>
                                 </div>
-                                <div className="credits">Designed by <Link to="/home" > 💜</Link></div>
+                                <div className="credits">Designed by <Link to="/home" > Rithik </Link></div>
                             </div>
                         </div>
                     </div>

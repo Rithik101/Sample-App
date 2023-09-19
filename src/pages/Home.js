@@ -28,7 +28,6 @@ const Home = () => {
 
     return (
         <>
-
             <section className=" p-4 mt-2">
                 <div className="container">
                     <div className="row align-items-center">
@@ -38,7 +37,7 @@ const Home = () => {
                         <div className="col-md-6 mt-5">
                             <div className="collection-content mt-5">
 
-                                {/* Rest of your homepage content */}
+
                                 <h1>Trendy</h1>
                                 <h1>Collection</h1>
                                 <p>

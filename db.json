@@ -120,6 +120,11 @@
       "email": "sdwad@bluebash.co",
       "password": "sdadwd@1234",
       "id": 15
+    },
+    {
+      "email": "rithik@test.com",
+      "pass": "ascvdsa@123456",
+      "id": 16
     }
   ]
 }

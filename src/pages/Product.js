@@ -1,20 +1,13 @@
-import { useState, useEffect } from "react";
+import React, { useState, useEffect } from 'react';
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
-// import Cart from './Cart';
-// import { useNavigate } from "react-router-dom";
 import { useCart } from "./CartContext"
-// import { Alert } from "bootstrap";
-
-
-
 
 
 const Product = () => {
     const [items, setItems] = useState([]);
     const [heart, setHeart] = useState([]);
     const [showMessage, setShowMessage] = useState(false);
-
     const { addToCart } = useCart();
 
     useEffect(() => {
